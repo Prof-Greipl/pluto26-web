@@ -13,8 +13,8 @@ Die Inhalte der einzelnen Vorlesungen werden nachfolgend zusammengefasst.
 
 ## Teil A (Einführung in HTML, CSS, Javascript)
 
-### 05.10.2025
-Intro
+### 07.10.2025
+Nur Intro. 
 
 
 
